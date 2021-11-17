@@ -1,0 +1,1 @@
+16/11: Agora fiz uma modificação no texto, após ter tido que recomeçar do zero, apagando a pasta .git e recomeçando. Ufa!
