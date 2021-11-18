@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 16/11: Agora fiz uma modificação no texto, após ter tido que recomeçar do zero, apagando a pasta .git e recomeçando. Ufa!
+=======
+Primeiro teste em dupla.
+>>>>>>> 4b8fb0130a31c7e86ba33fa957b4885f1c527198
