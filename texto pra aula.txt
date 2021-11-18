@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Primeiro teste em dupla.
-=======
-Sou Camila Sales Gomes, aluna do Senai. Primeiro exercício em dupla e, estou fazendo com a Paula!!!
->>>>>>> primeira-branch
