@@ -3,3 +3,4 @@
 =======
 Primeiro teste em dupla.
 >>>>>>> 213dd9523735d79ebfba40c5f053652d8fc349aa
+Estamos fazendo uma atividade em dupla, Paula e Camila. Essa linha foi escrita pela Paula.
