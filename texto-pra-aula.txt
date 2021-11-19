@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+Primeiro teste em dupla.
+=======
+Sou Camila Sales Gomes, aluna do Senai. Primeiro exercício em dupla e, estou fazendo com a Paula!!!
+>>>>>>> primeira-branch
+=======
+16/11: Agora fiz uma modificação no texto, após ter tido que recomeçar do zero, apagando a pasta .git e recomeçando. Ufa!
+=======
+Primeiro teste em dupla.
+>>>>>>> 4b8fb0130a31c7e86ba33fa957b4885f1c527198
+>>>>>>> 42019b55a4a9e5275a64f853589b1d18d466d022
